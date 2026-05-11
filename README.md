@@ -6,8 +6,8 @@
 
 <h2>🎮 Popular Roblox Games</h2>
 
-- [Zol's RNG](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [STAIRS](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Zol's RNG](https://www.roblox.com/games/16495539766/Zols-RNG)
+- [STAIRS](https://www.roblox.com/games/140532195924742/STAIRS)
 
 <h2> 🤳 Connect with me:</h2>
 
