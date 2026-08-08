@@ -6,8 +6,9 @@
 
 <h2>🎮 Roblox Games</h2>
 
-- [Zol's RNG](https://www.roblox.com/games/16495539766/Zols-RNG)
+- [Fusion RNG](https://www.roblox.com/games/107643059028043/Fusion-RNG)
 - [STAIRS](https://www.roblox.com/games/140532195924742/STAIRS)
+- [Zol's RNG](https://www.roblox.com/games/16495539766/Zols-RNG)
 
 <h2> 🤳 Connect with me:</h2>
 
